@@ -4,3 +4,5 @@ A low-cost, open-source hardware machine for grinding extruder screws. This is a
 
 See project page at
 https://wiki.fablab-muenchen.de/display/FABMX/DIY+Extruder+Screw+Grinder
+
+This is work in progress.
